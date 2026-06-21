@@ -8,13 +8,13 @@ Neural network implementations built from scratch and with PyTorch — coursewor
 
 ## Assignments
 
-| # | Topic | Key Concepts | 
+| # | Topic | Key Concepts | Grade |
 |---|-------|-------------|-------|
-| [01](./01_regression/) | Linear Regression & Classification | Least squares, train/test split, 3D decision boundary | 
-| [02](./02_perceptron/) | Perceptron from Scratch | Delta rule, digit recognition, FP/FN analysis | 
-| [03](./03_backprop/) | Backpropagation MLP from Scratch | Sigmoid, batch updates, 10-class digit classifier, error surface |
-| [04](./04_pytorch_mlp/) | PyTorch MLP | nn.Module, CrossEntropyLoss, SGD, MNIST | 
-| [05](./05_cnn/) | Convolutional Neural Network | Conv2d, MaxPool, Dropout, MNIST, confusion matrix | 
+| [01](./01_regression/) | Linear Regression & Classification | Least squares, train/test split, 3D decision boundary | 110% |
+| [02](./02_perceptron/) | Perceptron from Scratch | Delta rule, digit recognition, FP/FN analysis | 100% |
+| [03](./03_backprop/) | Backpropagation MLP from Scratch | Sigmoid, batch updates, 10-class digit classifier, error surface | 110% + extra credit |
+| [04](./04_pytorch_mlp/) | PyTorch MLP | nn.Module, CrossEntropyLoss, SGD, MNIST | 80% |
+| [05](./05_cnn/) | Convolutional Neural Network | Conv2d, MaxPool, Dropout, MNIST, confusion matrix | 100% |
 
 ---
 
