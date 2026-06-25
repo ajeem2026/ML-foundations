@@ -6,7 +6,7 @@ Neural network implementations built from scratch and with PyTorch — coursewor
 
 ---
 
-## Assignments
+## Sub-Projects
 
 | # | Topic | Key Concepts | 
 |---|-------|-------------|
